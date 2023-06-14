@@ -1,5 +1,5 @@
 # Generar un repositorio local y posteriormente unirlo a uno remoto
-Esta linea es el nuevo push que realice de un repositorio local a remotos
+
 ## Creación de repositorio
 
 1. Inicializar *git bash*
